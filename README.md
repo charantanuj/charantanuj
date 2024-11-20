@@ -20,7 +20,7 @@ I am a **Master’s student in Computer Science (Data Science)** at the Universi
 
 #### 🛠 **Skills & Technologies**  
 - **Languages**: Python, R, Scala, Linux, C, Java, SQL, MATLAB, HTML5, CSS3, JavaScript, and Golang. 
-- **Libraries/Frameworks**: ReactJS, NumPy, Spark, Pandas, NetBeans, Eclipse, OpenCV, Pytorch, Keras, TensorFlow, Kubernetes, and Scikit-learn.
+- **Libraries/Frameworks**: ReactJS, NumPy, Pandas, NetBeans, OpenCV, Pytorch, Keras, TensorFlow, Kubernetes, and Scikit-learn.
 - **Database**: MySQL, SQL Server, Oracle, Hadoop, Hive, MongoDB and Snowflake.
 - **Software/ Tools**: MS Excel, MS Power Point, Power BI, Tableau, Android Studio, Visual Studio, and JIRA
 
