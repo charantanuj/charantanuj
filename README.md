@@ -11,8 +11,7 @@ I am a **Master’s student in Computer Science (Data Science)** at the Universi
 #### 💼 **Professional Experience**  
 - **Software Engineer Co-op @ Nokia**: Automated key management processes, optimized Kubernetes systems, and collaborated on testing methodologies.  
 - **Data Engineer Intern @ Ericsson**: Designed dashboards with Power BI, integrated Snowflake, and enhanced user interfaces for data platforms.  
-- **Student Research Intern @ Samsung**: Advanced smart gestures for Android watches with LSTM algorithms, achieving 99% recognition accuracy.  
-- **Software QA Intern @ Nokia**: Contributed to 5G/FWA network solutions for Tier-1 service providers.  
+- **Student Research Intern @ Samsung**: Advanced smart gestures for Android watches with LSTM algorithms, achieving 99% recognition accuracy.    
 
 #### 🌟 **Key Projects**  
 - **Neural Machine Translation**: Developed an unsupervised model for seamless English-Tamil translations with 99% accuracy.  
