@@ -24,9 +24,9 @@ I am a **Master’s student in Computer Science (Data Science)** at the Universi
 - **Data Tools**: Power BI, Tableau, Snowflake, Hadoop, MongoDB.  
 
 #### 📜 **Publications**  
-- Comparative Study of Gradient Domain Based Image Blending Approaches (IEEE).  
-- Stock Forecasting using HMM and SVR (IEEE).  
-- Identification of Sleep Apnea using Deep Learning on ECG Data (IEEE).  
+- Comparative Study of Gradient Domain Based Image Blending Approaches (IEEE).  [IEEE Link](https://ieeexplore.ieee.org/document/9633858)  
+- Stock Forecasting using HMM and SVR (IEEE).  [IEEE Link](https://ieeexplore.ieee.org/document/10276281)  
+- Identification of Sleep Apnea using Deep Learning on ECG Data (IEEE). [IEEE Link](https://ieeexplore.ieee.org/document/10276281)  
 
 #### 📫 **Let’s Connect!**  
 - [LinkedIn](https://www.linkedin.com/in/maturi-tanuj/)  
