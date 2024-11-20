@@ -19,9 +19,10 @@ I am a **Master’s student in Computer Science (Data Science)** at the Universi
 - **Traffic Violation Detection**: Designed an ML/DL-based system to identify and reduce traffic rule violations.  
 
 #### 🛠 **Skills & Technologies**  
-- **Languages**: Python, R, Java, Scala, SQL, C.  
-- **Libraries/Frameworks**: TensorFlow, PyTorch, OpenCV, ReactJS, Kubernetes, Docker.  
-- **Data Tools**: Power BI, Tableau, Snowflake, Hadoop, MongoDB.  
+- **Languages**: Python, R, Scala, Linux, C, Java, SQL, MATLAB, HTML5, CSS3, JavaScript, and Golang. 
+- **Libraries/Frameworks**: ReactJS, NumPy, Spark, Pandas, NetBeans, Eclipse, OpenCV, Pytorch, Keras, TensorFlow, Kubernetes, and Scikit-learn.
+- **Database**: MySQL, SQL Server, Oracle, Hadoop, Hive, MongoDB and Snowflake.
+- **Software/ Tools**: MS Excel, MS Power Point, Power BI, Tableau, Android Studio, Visual Studio, and JIRA
 
 #### 📜 **Publications**  
 - Comparative Study of Gradient Domain Based Image Blending Approaches (IEEE).  [IEEE Link](https://ieeexplore.ieee.org/document/9633858)  
