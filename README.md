@@ -1,7 +1,8 @@
+### 👋 Hey, Tanuj Maturi here!  
 
-### 👋 Hi, I’m Tanuj Maturi!  
+I’m a **Master’s student in Computer Science (Data Science)** at the University of Missouri-Kansas City, driven by a passion for **AI** and cutting-edge technologies. I thrive on solving complex challenges with innovative, data-driven solutions, whether it’s building intelligent systems, analyzing big data, or designing impactful software.  
 
-I am a **Master’s student in Computer Science (Data Science)** at the University of Missouri-Kansas City, with a strong foundation in AI and cutting-edge technologies. My passion lies in solving complex problems through innovative solutions, whether in software development, data analytics, or robotics.  
+I’m actively **seeking AI-focused roles** where I can leverage my skills in machine learning, deep learning, and data science to create meaningful impact. Let’s build the future of technology together!  
 
 #### 🔍 **About Me**  
 - 🌐 Bachelor’s in Computer Science and Engineering (Artificial Intelligence) from Amrita Vishwa Vidyapeetam.  
