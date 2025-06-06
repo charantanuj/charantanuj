@@ -33,4 +33,3 @@ I’m actively **seeking AI-focused roles** where I can leverage my skills in ma
 #### 📫 **Let’s Connect!**  
 - [LinkedIn](https://www.linkedin.com/in/maturi-tanuj/)  
 - [GitHub](https://github.com/charantanuj)
-- [Resume](https://docs.google.com/document/d/1UmATcrppbcSWqEJu_NcCABMAED4lX9SNmiwkmhs32Zo/edit?usp=sharing) 
